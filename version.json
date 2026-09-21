@@ -1,0 +1,12 @@
+﻿{
+  "latest_version": "1.3.8",
+  "min_required_version": "1.0.0",
+  "release_date": "2026-09-21",
+  "download_url": "https://github.com/truonghy2017tgdd-web/zalo-auto-sender-releases/releases/download/v1.3.8/ZaloAutoSender-Setup-1.3.8.exe",
+  "force_update": false,
+  "changelog": [
+    "Bổ sung tính năng tự động kiểm tra và nâng cấp phiên bản mới 1-click",
+    "Tối ưu tốc độ quét mã QR và đăng nhập Zalo Web đa tầng",
+    "Nâng cấp giao diện mô phỏng điện thoại Sticky"
+  ]
+}
