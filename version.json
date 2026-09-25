@@ -1,13 +1,14 @@
 {
-  "latest_version": "1.4.1",
+  "latest_version": "1.4.2",
   "min_required_version": "1.0.0",
   "release_date": "2026-09-25",
-  "download_url": "https://github.com/truonghy2017tgdd-web/zalo-auto-sender-releases/releases/download/v1.4.1/ZaloAutoSender-Setup-1.4.1.exe",
+  "download_url": "https://github.com/truonghy2017tgdd-web/zalo-auto-sender-releases/releases/download/v1.4.2/ZaloAutoSender-Setup-1.4.2.exe",
   "force_update": false,
   "changelog": [
-    "Khắc phục triệt để lỗi Invalid regular expression khi tên cột hoặc dữ liệu chứa ký tự đặc biệt (*, @, ...)",
-    "Bảo vệ toàn diện khung xem trước tin nhắn và thay thế biến cá nhân hóa an toàn 100%",
-    "Sửa lỗi giao diện khi chuyển sang Bước 2 (Layers is not defined) trong Tạo Chiến Dịch Mới",
-    "Tự động phát hiện và khắc phục lỗi cơ sở dữ liệu SQLite (Error: file is not a database)"
+    "Khắc phục triệt để lỗi gửi trùng lặp nhiều tin nhắn cho cùng một khách hàng trong chiến dịch",
+    "Ngăn chặn tuyệt đối tình trạng chạy vòng lặp worker song song (Worker Loop Lock)",
+    "Tự động phát hiện và lọc bỏ các số điện thoại trùng lặp ngay khi nạp file Excel & nạp hàng đợi",
+    "Atomic Task Claim: Đảm bảo mỗi khách hàng chỉ được một tài khoản phát xử lý một lần duy nhất",
+    "Thêm đệm nghỉ an toàn 2.5s sau khi gửi lời mời kết bạn trước khi gửi tin chính"
   ]
 }
