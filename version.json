@@ -1,13 +1,13 @@
 {
-  "latest_version": "1.4.0",
+  "latest_version": "1.4.1",
   "min_required_version": "1.0.0",
   "release_date": "2026-09-25",
-  "download_url": "https://github.com/truonghy2017tgdd-web/zalo-auto-sender-releases/releases/download/v1.4.0/ZaloAutoSender-Setup-1.4.0.exe",
+  "download_url": "https://github.com/truonghy2017tgdd-web/zalo-auto-sender-releases/releases/download/v1.4.1/ZaloAutoSender-Setup-1.4.1.exe",
   "force_update": false,
   "changelog": [
+    "Khắc phục triệt để lỗi Invalid regular expression khi tên cột hoặc dữ liệu chứa ký tự đặc biệt (*, @, ...)",
+    "Bảo vệ toàn diện khung xem trước tin nhắn và thay thế biến cá nhân hóa an toàn 100%",
     "Sửa lỗi giao diện khi chuyển sang Bước 2 (Layers is not defined) trong Tạo Chiến Dịch Mới",
-    "Đồng bộ hiển thị phiên bản chính xác trên toàn bộ giao diện phần mềm",
-    "Tự động phát hiện và khắc phục lỗi cơ sở dữ liệu SQLite (Error: file is not a database)",
-    "Bổ sung cơ chế tự phục hồi (Self-Healing) khi quét mã QR giúp lưu tài khoản 100% thành công"
+    "Tự động phát hiện và khắc phục lỗi cơ sở dữ liệu SQLite (Error: file is not a database)"
   ]
 }
