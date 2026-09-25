@@ -1,14 +1,16 @@
 {
-  "latest_version": "1.4.2",
+  "latest_version": "1.4.3",
   "min_required_version": "1.0.0",
   "release_date": "2026-09-25",
-  "download_url": "https://github.com/truonghy2017tgdd-web/zalo-auto-sender-releases/releases/download/v1.4.2/ZaloAutoSender-Setup-1.4.2.exe",
+  "download_url": "https://github.com/truonghy2017tgdd-web/zalo-auto-sender-releases/releases/download/v1.4.3/ZaloAutoSender-Setup-1.4.3.exe",
   "force_update": false,
   "changelog": [
-    "Khắc phục triệt để lỗi gửi trùng lặp nhiều tin nhắn cho cùng một khách hàng trong chiến dịch",
-    "Ngăn chặn tuyệt đối tình trạng chạy vòng lặp worker song song (Worker Loop Lock)",
-    "Tự động phát hiện và lọc bỏ các số điện thoại trùng lặp ngay khi nạp file Excel & nạp hàng đợi",
-    "Atomic Task Claim: Đảm bảo mỗi khách hàng chỉ được một tài khoản phát xử lý một lần duy nhất",
-    "Thêm đệm nghỉ an toàn 2.5s sau khi gửi lời mời kết bạn trước khi gửi tin chính"
+    "Sửa lỗi nghiêm trọng: Opt-In Funnel Bước 2 không gửi được do SQL sai tên cột (reply_content → last_reply_content)",
+    "Sửa lỗi: Chiến dịch Quét Nhóm tự động chạy ngay sau khi tạo, không cần nhấn Resume thủ công",
+    "Sửa lỗi: Dừng chiến dịch (Stop) không còn làm mất task đang xử lý, task được giữ lại hàng đợi",
+    "Cải thiện: Đăng nhập QR hỗ trợ tốt hơn trên máy chậm / mạng yếu (thử lưu tài khoản nhiều lần sau 1s, 3s, 5s, 8s)",
+    "Sửa lỗi: Không còn crash khi nhận cảnh báo phiên hết hạn (session-expired) trong khi chưa mở modal đăng nhập lại",
+    "Sửa lỗi: Báo cáo thống kê đếm đủ số lượng task bị bỏ qua thủ công (SKIPPED)",
+    "Sửa hiển thị: Số dòng đang gửi trong terminal log hiển thị chính xác (không còn lệch +1)"
   ]
 }
