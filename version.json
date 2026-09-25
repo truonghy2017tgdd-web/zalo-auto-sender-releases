@@ -1,13 +1,7 @@
 {
-  "latest_version": "1.4.4",
-  "min_required_version": "1.0.0",
-  "release_date": "2026-09-25",
-  "download_url": "https://github.com/truonghy2017tgdd-web/zalo-auto-sender-releases/releases/download/v1.4.4/ZaloAutoSender-Setup-1.4.4.exe",
-  "force_update": false,
-  "changelog": [
-    "Tối ưu hóa toàn diện giao diện sáng (Light Mode): Các phím bấm, nút điều hướng, ô nhập liệu, bảng dữ liệu và thẻ phân loại có độ tương phản cao, dễ nhìn, chuẩn màu sắc thương hiệu Zalo",
-    "Khắc phục lỗi tự động đồng bộ và tải danh sách tài khoản Zalo khi tạo chiến dịch (Bước 3)",
-    "Bổ sung nút làm mới danh sách tài khoản chủ động và tự động chọn tài khoản hoạt động",
-    "Tối ưu thanh điều hướng nổi (Floating Bottom Bar) và các nút thao tác chiến dịch trực quan, sắc nét"
-  ]
+  "latest_version": "1.4.5",
+  "release_date": "2026-09-26",
+  "download_url": "https://github.com/truonghy2017tgdd-web/zalo-auto-sender-releases/releases/download/v1.4.5/ZaloAutoSender-Setup-1.4.5.exe",
+  "release_notes": "Phiên bản v1.4.5: Nâng cấp Trình Soạn Thảo Trực Quan (WYSIWYG) - Chữ in đậm hiển thị đậm thật ngay trên ô soạn thảo, không còn ký tự **; Tự động nhận diện in đậm/nghiêng và giữ nguyên form khi copy-paste từ AI (ChatGPT, Claude, Word); Lược bỏ hướng dẫn rườm rà; Tối ưu Zalo API styles.",
+  "min_required_version": "1.0.0"
 }
