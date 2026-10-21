@@ -1,14 +1,13 @@
 {
-  "latest_version": "1.4.6",
+  "latest_version": "1.4.7",
   "min_required_version": "1.0.0",
-  "release_date": "2026-09-26",
-  "download_url": "https://github.com/truonghy2017tgdd-web/zalo-auto-sender-releases/releases/download/v1.4.6/ZaloAutoSender-Setup-1.4.6.exe",
+  "release_date": "2026-10-21",
+  "download_url": "https://github.com/truonghy2017tgdd-web/zalo-auto-sender-releases/releases/download/v1.4.7/ZaloAutoSender-Setup-1.4.7.exe",
   "force_update": false,
   "changelog": [
-    "Khắc phục triệt để lỗi gửi tin nhắn và tự động làm mới mã bảo mật khi gửi tin qua Zalo",
-    "Gộp chung và tối ưu hóa 3 chế độ gửi: Mẫu Chung, Mẫu theo đối tượng (3 nhóm: Giới tính Nam/Nữ, Tên Zalo, Cột Excel), và Phễu 2 bước",
-    "Thêm nút thu gọn 'Chế độ gửi khác' tinh gọn giúp giao diện thoáng đãng, dễ thao tác",
-    "Đồng bộ hoàn toàn màn hình Chỉnh Sửa Nội Dung & Cấu Hình Chiến Dịch theo đúng chế độ gửi đã chọn",
-    "Tối ưu hóa báo cáo phản hồi và kết bạn (1 khách chỉ tính 1 lần phản hồi trên mỗi chiến dịch)"
+    "Sửa triệt để lỗi \"Radio is not defined\" tại màn hình Giám sát trực tiếp (LiveMonitor) khi chiến dịch Google Sheets động / Quét nhóm hoàn tất hàng đợi hiện tại",
+    "Khắc phục lỗi khi bấm nút \"Cấu hình quét nhóm\" nhanh trên danh sách chiến dịch",
+    "Khắc phục lỗi đối soát danh bạ bạn bè và chèn nhanh Emoji tại màn hình soạn tin nhắn",
+    "Đồng bộ hiển thị thông tin tài khoản và nút sao chép trong cửa sổ Gửi thử nhanh (Fast Test)"
   ]
 }
