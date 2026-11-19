@@ -1,13 +1,14 @@
 {
-  "latest_version": "1.4.7",
+  "latest_version": "1.9.9",
   "min_required_version": "1.0.0",
-  "release_date": "2026-10-21",
-  "download_url": "https://github.com/truonghy2017tgdd-web/zalo-auto-sender-releases/releases/download/v1.4.7/ZaloAutoSender-Setup-1.4.7.exe",
+  "release_date": "2026-11-19",
+  "download_url": "https://github.com/truonghy2017tgdd-web/zalo-auto-sender-releases/releases/download/v1.9.9/Zalo.Auto.Sender.V2.Setup.2.1.9.exe",
+  "release_notes": "Nâng cấp lên Zalo Auto Sender V2 (v2.1.9) - Tự động giữ nguyên dữ liệu V1 và tiếp tục dùng trên V2.",
   "force_update": false,
   "changelog": [
-    "Sửa triệt để lỗi \"Radio is not defined\" tại màn hình Giám sát trực tiếp (LiveMonitor) khi chiến dịch Google Sheets động / Quét nhóm hoàn tất hàng đợi hiện tại",
-    "Khắc phục lỗi khi bấm nút \"Cấu hình quét nhóm\" nhanh trên danh sách chiến dịch",
-    "Khắc phục lỗi đối soát danh bạ bạn bè và chèn nhanh Emoji tại màn hình soạn tin nhắn",
-    "Đồng bộ hiển thị thông tin tài khoản và nút sao chép trong cửa sổ Gửi thử nhanh (Fast Test)"
+    "Nâng cấp thẳng từ V1 lên phiên bản Zalo Auto Sender V2 (v2.1.9) — giữ nguyên toàn bộ tài khoản & chiến dịch",
+    "Bổ sung bộ lọc Giới tính Bước 3 & lọc kết hợp Giới tính + Thẻ ở Lễ Tết",
+    "Nhận diện tên thông minh khi chúc mừng sinh nhật & Lễ Tết",
+    "Tự động sửa lỗi & cứu hộ CSDL SQLite (malformed)"
   ]
 }
